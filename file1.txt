@@ -1,5 +1,18 @@
 this is file1 created at local in folder two <br>
 to copy from local to github <br>
 
-
+enter folder --> cd repo name <br>
+git init <br>
+create repo at github and copu url <br>
+git remote add origin "url from github" <br>
+git remote -v <br>
+optional show from where copy data
+<br>
+git add and commit changes
+<br>
+git branch -m main <br>
+rename branch name to main from master
+<br>
+git push -u origin main<br>
+copy data from git local to github
 
